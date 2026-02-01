@@ -100,7 +100,7 @@ Start broad, then narrow down
 4. Potential challenges"
 ```
 
-### **🎮 Interactive Prompt Engineering Exercise**
+### ** Interactive Prompt Engineering Exercise**
 
 #### **Exercise 1: Fix the Bad Prompt**
 **Bad Prompt**: "Make a website"
@@ -134,86 +134,6 @@ CODE:
 [Student's buggy code here]
 """
 ```
-
-### **🔗 Integrating AI into Your Development Workflow**
-
-#### **Phase 1: Planning & Design**
-```python
-"""
-AI PROMPT FOR PROJECT PLANNING:
-"As a senior AI architect, help me plan a [PROJECT_NAME] using LangGraph.
-
-PROJECT GOALS: [List your goals]
-TECH STACK: [Python, LangGraph, etc.]
-TIMELINE: [2 weeks]
-
-Please provide:
-1. Recommended node structure
-2. State design (TypedDict)
-3. Tool integration plan
-4. Risk assessment
-5. Milestone breakdown
-"""
-```
-
-#### **Phase 2: Implementation Assistance**
-```python
-"""
-IMPLEMENTATION HELP FOR: [Specific component]
-
-CURRENT CODE:
-[Paste your code]
-
-SPECIFIC ISSUE: [Describe what's not working]
-ATTEMPTED SOLUTIONS: [What you've tried]
-
-Please:
-1. Identify the bug
-2. Provide corrected code
-3. Explain the fix
-4. Suggest tests to prevent regression
-"""
-```
-
-#### **Phase 3: Code Review & Optimization**
-```python
-"""
-CODE REVIEW REQUEST:
-"Review this LangGraph code for best practices and optimization opportunities."
-
-CODE:
-[Paste your complete code]
-
-FOCUS AREAS:
-1. State management efficiency
-2. Error handling completeness
-3. Code readability/maintainability
-4. Performance considerations
-5. Security implications
-
-Please provide specific, actionable feedback.
-"""
-```
-
-### **📊 AI-Assisted Development Checklist**
-
-#### **Before Writing Code:**
-- [ ] Use AI to brainstorm architecture options
-- [ ] Get feedback on state design
-- [ ] Validate tool selection
-- [ ] Identify potential edge cases
-
-#### **During Implementation:**
-- [ ] Generate boilerplate code from specifications
-- [ ] Get debugging help for specific issues
-- [ ] Request code reviews for complex logic
-- [ ] Generate test cases
-
-#### **After Implementation:**
-- [ ] Get optimization suggestions
-- [ ] Request documentation generation
-- [ ] Get deployment guidance
-- [ ] Plan next iteration features
 
 #### **Effective Help Requests:**
 ```python
