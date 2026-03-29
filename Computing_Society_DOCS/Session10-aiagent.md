@@ -27,7 +27,7 @@ graph TD
 
 **Product: Google Spam Filter (Gmail)**
 
-![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png)
+![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/256px-Gmail_icon_%282020%29.svg.png)
 
 - **What it does**: Scans every incoming email and **immediately routes it** to spam or inbox based on fixed rule patterns (keywords, sender reputation, formatting)
 - **Why it fits**: No memory of past emails — every message is judged **independently** in real time
@@ -49,7 +49,7 @@ graph TD
 
 **Product: Tesla Autopilot**
 
-![Tesla Autopilot](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/320px-Tesla_Motors.svg.png)
+![Tesla Autopilot](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/256px-Tesla_Motors.svg.png)
 
 - **What it does**: Maintains a **real-time internal model** of the road — including vehicles, lane markings, and obstacles — even when sensors are temporarily blocked
 - **Why it fits**: It doesn't just react to what it *currently sees*; it tracks what it **last knew** about surrounding cars and predicts their positions
@@ -74,7 +74,7 @@ graph TD
 
 **Product: Google Maps (Navigation Mode)**
 
-![Google Maps](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/240px-Google_Maps_icon_%282020%29.svg.png)
+![Google Maps](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/256px-Google_Maps_icon_%282020%29.svg.png)
 
 - **What it does**: Given a **destination (goal)**, it evaluates thousands of possible routes and selects the optimal path using real-time data
 - **Why it fits**: Every decision — turn left, take the motorway, reroute — is driven by the single goal of **reaching the destination efficiently**
@@ -105,7 +105,7 @@ graph TD
 
 **Product: Netflix Recommendation Engine**
 
-![Netflix](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/320px-Netflix_2015_logo.svg.png)
+![Netflix](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/256px-Netflix_2015_logo.svg.png)
 
 - **What it does**: Assigns a **utility score** to thousands of titles based on your watch history, ratings, time of day, and device — then surfaces the content with the **highest predicted satisfaction**
 - **Why it fits**: It doesn't just find *a* show you might like — it finds the **best possible** show by maximising an internal utility function
@@ -133,7 +133,7 @@ graph TD
 
 **Product: DeepMind AlphaGo / AlphaZero**
 
-![DeepMind](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DeepMind_new_logo.svg/320px-DeepMind_new_logo.svg.png)
+![DeepMind](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DeepMind_new_logo.svg/256px-DeepMind_new_logo.svg.png)
 
 - **What it does**: Learns to play board games (Go, Chess, Shogi) **from scratch** using reinforcement learning — playing millions of games against itself to improve
 - **Why it fits**: It starts with **zero human knowledge** (AlphaZero) and progressively refines its strategy purely through experience and feedback
@@ -162,7 +162,7 @@ graph TD
 
 **Product: Uber's Ride-Matching Platform**
 
-![Uber](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/320px-Uber_logo_2018.svg.png)
+![Uber](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/256px-Uber_logo_2018.svg.png)
 
 - **What it does**: Thousands of **driver agents** and **rider agents** operate simultaneously, negotiating assignments, routing, and pricing in real time across a city
 - **Why it fits**: No single central agent controls everything — **distributed agents** collaborate and compete to optimise supply-demand balance
@@ -191,7 +191,7 @@ graph TD
 
 **Product: Microsoft Copilot (in Microsoft 365)**
 
-![Microsoft Copilot](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/240px-Microsoft_365_Copilot_Icon.svg.png)
+![Microsoft Copilot](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/256px-Microsoft_365_Copilot_Icon.svg.png)
 
 - **What it does**: Acts as an **intelligent assistant** embedded across Word, Excel, Outlook, and Teams — reasoning, writing, summarising, generating formulas, and taking actions on your behalf
 - **Why it fits**: Uses an LLM as its **reasoning core**, combined with tools (file access, calendar, email) and memory (document context) to complete complex multi-step tasks
